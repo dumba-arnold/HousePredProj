@@ -67,6 +67,7 @@ gevent @ file:///tmp/build/80754af9/gevent_1628273270105/work
 glob2 @ file:///home/linux1/recipes/ci/glob2_1610991677669/work
 gmpy2==2.0.8
 greenlet @ file:///tmp/build/80754af9/greenlet_1628888132713/work
+gunicorn==20.1.0
 h5py @ file:///tmp/build/80754af9/h5py_1636040554610/work
 HeapDict @ file:///Users/ktietz/demo/mc3/conda-bld/heapdict_1630598515714/work
 html5lib @ file:///Users/ktietz/demo/mc3/conda-bld/html5lib_1629144453894/work
